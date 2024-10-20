@@ -3,16 +3,20 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: About
 ---
 
 
-# About
+<img style="float:right; margin:10px" width="200" src="src/img/wink_recadre_small_size.jpg">
+
 
 Hi! I am Maël Madon, researcher in Computer Science in the [SEPIA team](https://www.irit.fr/departement/architecture-systemes-reseaux/equipe-sepia/) at IRIT, University of Toulouse.
 
 I defended my PhD in April 2024 about digital sufficiency in large-scale distributed systems.
-My PhD supervisors were Georges Da Costa and Jean-Marc Pierson.
+My PhD supervisors were [Georges Da Costa](https://www.irit.fr/~Georges.Da-Costa/) and [Jean-Marc Pierson](https://www.irit.fr/~Jean-Marc.Pierson/).
 I want to go beyond energy efficiency techniques and involve the end-user of data centers to help mitigate the environmental footprint of ICT.
+
+<!-- ![alt text](src/img/wink_recadre_small_size.jpg) -->
 
 
 ## Research interests

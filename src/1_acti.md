@@ -15,18 +15,18 @@ Title: _Comportements de sobriété pour des utilisateurices d’un data center 
 <!--  -->
 *   7 March 24. **Presentation @[ROADEF’2024](https://roadef2024.sciencesconf.org/)**. 
 Title: _Sobriété numérique dans les data centers_. Amiens (France). 
-[slides](https://cloud.irit.fr/s/oR1YwvtxgiI6ULr)
+[slides](/src/data/24-03-07_ROADEF.pdf)
 <!--  -->
 *   8 Dec 23. **Seminar @[Histoire Humanités Numériques Informatique](https://hhn.hypotheses.org/programme-2023-2024)**. 
 Title: _Numérique Eco-Responsable_. Toulouse (France). 
-[slides](https://cloud.irit.fr/s/PV0reZ83AGPu895)
+[slides](/src/data/23-12-08_seminaire_UT2J.pdf)
 <!--  -->
 *   27 Nov 23. **Panel discussion @[conférence “les sciences informatiques écoresponsables”](https://www.ins2i.cnrs.fr/fr/cnrsinfo/conference-les-sciences-informatiques-ecoresponsables)**. Organized by CNRS Sciences Informatiques. 
 Title: _“J’ai orienté ma recherche vers les sciences informatiques écoresponsables” : témoignages_.
 <!--  -->
 *   4 Jul 23. **Remote guest speaker @[SummerSchoolEIT](https://numerinnov-hub.eu/universite-de-rennes-summer-schools-2023/).** 
 Title: _Involving the users to mitigate the environmental impact of data centers._ Rennes (France). 
-[slides](https://cloud.irit.fr/s/BBaH0xTpr0gs5YM)
+[slides](/src/data/23-07-04_SummerSchool@Rennes.pdf)
 <!--  -->
 *   28 Mar 23. **Presentation @[GreenDays2023](http://perso.ens-lyon.fr/laurent.lefevre/greendayslyon2023/programme_greendays2023.html)**. 
 Title: _Vers une utilisation ‘sobre’ des centres de données : les sciences sociales à la rescousse de l’informatique_. Lyon (France).
@@ -44,7 +44,7 @@ Title: _Vers des simulations HPC plus réalistes : rejouer le comportement de so
 <!--  -->
 * 23 Nov 22. **Guest presentation @”Research Cocktail” series** **at VU Amsterdam**. 
 Title: _Involving the users to mitigate the environmental impact of data centers_. Amsterdam (The Netherlands).
-[slides](https://cloud.irit.fr/index.php/s/FicaAQ8A11IXAFB)
+[slides](/src/data/22-11-23_VU-Amsterdam_research_cocktail.pdf)
 <!--  -->
 * 8 Apr 22. **Seminar @[DataMove research team](https://team.inria.fr/datamove/talks/)** (INRIA, LIG, Grenoble).
 Title: _Characterization of user behaviors for demand response in data centers_. Online.
@@ -52,7 +52,7 @@ Title: _Characterization of user behaviors for demand response in data centers_.
 <!--  -->
 * 17 Jun 21. **PhD seminar @[Société Informatique de France](https://sifdoctorants21.sciencesconf.org/).**
 Title: _From the embodied emissions of radio base stations to involving the user in environmental-aware clouds_. Online.
-[slides](https://cloud.irit.fr/index.php/s/4pkbDmXMAQahWDH),
+[slides](/src/data/21-06-17_slides_SIF.pdf),
 [video (start 1:15:22)](https://vimeo.com/588859468)
 
 ## Events

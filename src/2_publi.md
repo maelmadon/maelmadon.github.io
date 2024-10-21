@@ -28,26 +28,26 @@ Presented at ICT4S’24, Stockholm, Sweden.
 _“We are always on, is that really necessary?” Exploring the Path to Digital Sufficiency in Flexible Work_.
 Presented at ICT4S’23, Rennes, France.
 [full paper](https://doi.org/10.1109/ICT4S58814.2023.00012),
-[slides](https://cloud.irit.fr/s/ZLshOq1uyGEJdwp), 
+[slides](/src/data/23-06-06_Presentation@ICT4S.pdf), 
 [video](https://www.youtube.com/watch?v=ImDeTAwyQcE&t=1756s) of conference presentation
 <!--  -->
 * **M. Madon**, G. Da Costa and J.-M. Pierson, 2022.
 _Characterization of Different User Behaviors for Demand Response in Data Centers._
 Presented at Euro-Par 2022, Glasgow, UK.
 [full paper](https://hal.archives-ouvertes.fr/hal-03768237/document),
-[slides](https://cloud.irit.fr/index.php/s/fifd5on4vFEJxQm)
+[slides](/src/data/22-08-24_Madon_europar22.pdf)
 <!--  -->
 * K. Toczé, **M. Madon**, M. Garcia and P. Lago, 2022.
 _The Dark Side of Cloud and Edge Computing: An Exploratory Study._
 Presented at the Eighth Workshop on Computing within Limits, online.
 [full paper](https://doi.org/10.21428/bf6fb269.9422c084),
-[slides (presented by Klervie Toczé)](https://cloud.irit.fr/index.php/s/Jfl9hb4hjqm2Bvd)
+[slides (presented by Klervie Toczé)](/src/data/22-06-22_slides_dark_cloud.pdf)
 <!--  -->
 * **M. Madon** and J.-M. Pierson, 2020.
 _Integrating Pre-Cooling of Data Center Operated with Renewable Energies._
 Presented at the 2020 IEEE Green Computing and Communications (GreenCom), Rhodos, Greece.
 [full paper](https://hal.archives-ouvertes.fr/hal-02970488),
-[slides](https://cloud.irit.fr/index.php/s/LUUVCrSqKWTUwbp)
+[slides](/src/data/20-10-xx_GreenCom_wo_video.pptx)
 
 ## Theses
 * M. Madon, 2024.
@@ -59,12 +59,12 @@ Université de Toulouse.
 *   M. Madon, 2021.
 _Developing a Parameterized Embodied Emissions Calculator for telecommunication networks equipment (PEEC)_ (Master’s thesis). KTH Royal Institute of Technology, Stockholm.
 [manuscript](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-292198),
-[slides](https://cloud.irit.fr/index.php/s/AjpaPmbke7PnqFD)
+[slides](/src/data/21-03-08_Master_s thesis presentation.pptx)
 <!--  -->
 *   M. Madon, 2019.
 _Integrating Pre-Cooling of Datacenter operated with Renewable Energies_ (Research Intership report). Ecole Polytechnique, Palaiseau.
-[report](https://cloud.irit.fr/index.php/s/8IppNxx8mvEHnnM),
-[slides (fr)](https://cloud.irit.fr/index.php/s/jjZ4TVfxbBKlHoH)
+[report](/src/data/19-07-04_rapport_3A.pdf),
+[slides (fr)](/src/data/19-07-04_soutenance_3A.pdf)
 
 ## Others
 

@@ -32,7 +32,7 @@ Download my [research statement](/src/data/research_statement_mael_madon.pdf) (P
 
 
 ## Education and employment
-Download my [academic CV](/src/data/cv_mael_madon.pdf) (PDF, 2 pages + references, last update: March 2025).
+Download my [academic CV](/src/data/cv_mael_madon.pdf) (PDF, 2 pages + references, last update: Sept 2025).
 
 - **2021-2024, PhD in Computer Science.** 
 *Université de Toulouse (France)*

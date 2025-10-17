@@ -10,24 +10,25 @@ See also my [google scholar](https://scholar.google.fr/citations?user=wh91g8QAAA
 * **M. Madon**, G. Da Costa, and J.-M. Pierson, 2024.
 _Replay with Feedback: How does the performance of HPC system impact user submission behavior?_.
 Future Generation Computer Systems. 
-doi: [10.1016/j.future.2024.01.024](https://doi.org/10.1016/j.future.2024.01.024).
+[full paper](https://hal.science/hal-04432711v1/document).
 
 
 ## Conference papers
 * J. Gatt, **M. Madon** and G. Da Costa, 2024.
 _Digital sufficiency behaviors to deal with intermittent energy sources in a data center_.
 Presented at ICT4S’24, Stockholm, Sweden.
-[accepted version](https://hal.science/hal-04745218)
+[full paper](https://hal.science/hal-04745218v1/document),
+[slides](/src/data/24-06-25_jolyne_ICT4S.pdf)
 <!--  -->
 * M. Nawshin Rahman, **M. Madon**, and P. Lago, 2024.
 _Sufficient Use of the Cloud for Work: Practitioners’ Perception and Potential for Energy Saving_.
 Presented at ICT4S’24, Stockholm, Sweden.
-[accepted version](https://hal.science/hal-04745213)
+[full paper](https://hal.science/hal-04745213v1/document)
 <!--  -->
 * **M. Madon** and P. Lago, 2023.
 _“We are always on, is that really necessary?” Exploring the Path to Digital Sufficiency in Flexible Work_.
 Presented at ICT4S’23, Rennes, France.
-[full paper](https://doi.org/10.1109/ICT4S58814.2023.00012),
+[full paper](https://hal.science/hal-04110920v1/document),
 [slides](/src/data/23-06-06_Presentation@ICT4S.pdf), 
 [video](https://www.youtube.com/watch?v=ImDeTAwyQcE&t=1756s) of conference presentation
 <!--  -->
@@ -40,21 +41,22 @@ Presented at Euro-Par 2022, Glasgow, UK.
 * K. Toczé, **M. Madon**, M. Garcia and P. Lago, 2022.
 _The Dark Side of Cloud and Edge Computing: An Exploratory Study._
 Presented at the Eighth Workshop on Computing within Limits, online.
-[full paper](https://doi.org/10.21428/bf6fb269.9422c084),
+[full paper](https://assets.pubpub.org/x4k7lypk/71655711824258.pdf),
 [slides (presented by Klervie Toczé)](/src/data/22-06-22_slides_dark_cloud.pdf)
 <!--  -->
 * **M. Madon** and J.-M. Pierson, 2020.
 _Integrating Pre-Cooling of Data Center Operated with Renewable Energies._
 Presented at the 2020 IEEE Green Computing and Communications (GreenCom), Rhodos, Greece.
-[full paper](https://hal.archives-ouvertes.fr/hal-02970488),
+[full paper](https://hal.science/hal-02970488v1/document),
 [slides](/src/data/20-10-xx_GreenCom_wo_video.pptx)
 
 ## Theses
 * M. Madon, 2024.
-_Digital Sufficiency in Data Centers: Studying the Impact of User Behaviors_. (PhD thesis).
+_Digital Sufficiency in Data Centers: Studying the Impact of User Behaviors_ (PhD thesis).
 Université de Toulouse.
 [manuscript](https://theses.hal.science/tel-04675558v1/document),
-[slides](/src/data/24-04-30_PhD_slides.pdf)
+[slides](/src/data/24-04-30_PhD_slides.pdf),
+[video](https://youtu.be/XAPLJ7VROpU)
 <!--  -->
 *   M. Madon, 2021.
 _Developing a Parameterized Embodied Emissions Calculator for telecommunication networks equipment (PEEC)_ (Master’s thesis). KTH Royal Institute of Technology, Stockholm.

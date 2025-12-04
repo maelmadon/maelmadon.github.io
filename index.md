@@ -32,13 +32,13 @@ Download my [research statement](/src/data/research_statement_mael_madon.pdf) (P
 
 
 ## Education and employment
-Download my [academic CV](/src/data/cv_mael_madon.pdf) (PDF, 2 pages + references, last update: Sept 2025).
+Download my [professional CV](/src/data/cv_mael_madon.pdf) (PDF, 1 page, last update: Dec 2025) and [academic CV](/src/data/academic_cv_mael_madon.pdf) (PDF, 2 pages + references, last update: Dec 2025).
 
 - **2021-2024, PhD in Computer Science.** 
 *Université de Toulouse (France)*
-- **2019-2021, Master of Science in Engineering (double degree).**
+- **2019-2021, M.Eng. in Computer Science (double degree).**
 *KTH Royal Institute of Technology, Stockholm (Sweden)*
-- **2016-2020, Diploma of École Polytechnique.**
+- **2016-2020, École Polytechnique's diploma (B.Eng.&M.Eng.).**
 *École Polytechnique, Paris (France)*
 
 

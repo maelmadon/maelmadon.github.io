@@ -8,6 +8,11 @@ You’ll find below a list of presentations I have given at public events as wel
 
 ## Presentations
 
+*   25 June 24. **Paper presentation @[ICT4S'24](https://conf.researchr.org/home/ict4s-2024)** Title: _Digital sufficiency behaviors to deal with intermittent energy sources in a data center_.
+Stockholm (Sweden).
+[full paper](https://hal.science/hal-04745218v1/document),
+[slides](/src/data/24-06-25_jolyne_ICT4S.pdf)
+<!--  -->
 *   27 March 24. **Presentation @[GreenDays2024](http://perso.ens-lyon.fr/laurent.lefevre/greendaystoulouse2024/programme_greendays2024.html)**
 Title: _Comportements de sobriété pour des utilisateurices d’un data center alimenté aux énergies renouvelables_. Toulouse (France).
 [slides](https://graal.ens-lyon.fr/~llefevre/greendays2024/GreenDays2024_Madon.pdf),
@@ -23,6 +28,14 @@ Title: _Numérique Eco-Responsable_. Toulouse (France).
 <!--  -->
 *   27 Nov 23. **Panel discussion @[conférence “les sciences informatiques écoresponsables”](https://www.ins2i.cnrs.fr/fr/cnrsinfo/conference-les-sciences-informatiques-ecoresponsables)**. Organized by CNRS Sciences Informatiques. 
 Title: _“J’ai orienté ma recherche vers les sciences informatiques écoresponsables” : témoignages_.
+<!--  -->
+*   6 Jul 23. **Paper presentation @[ICT4S'23](https://conf.researchr.org/home/ict4s-2023)**
+Title: _“We are always on, is that really necessary?” Exploring the Path to Digital Sufficiency in Flexible Work_. Rennes (France).
+_“We are always on, is that really necessary?” Exploring the Path to Digital Sufficiency in Flexible Work_.
+Presented at ICT4S’23, Rennes, France.
+[full paper](https://hal.science/hal-04110920v1/document),
+[slides](/src/data/23-06-06_Presentation@ICT4S.pdf), 
+[video](https://www.youtube.com/watch?v=ImDeTAwyQcE&t=1756s) of conference presentation
 <!--  -->
 *   4 Jul 23. **Remote guest speaker @[SummerSchoolEIT](https://numerinnov-hub.eu/universite-de-rennes-summer-schools-2023/).** 
 Title: _Involving the users to mitigate the environmental impact of data centers._ Rennes (France). 
@@ -46,6 +59,11 @@ Title: _Vers des simulations HPC plus réalistes : rejouer le comportement de so
 Title: _Involving the users to mitigate the environmental impact of data centers_. Amsterdam (The Netherlands).
 [slides](/src/data/22-11-23_VU-Amsterdam_research_cocktail.pdf)
 <!--  -->
+* 24 Aug 22. **Paper presentation @[Euro-Par'22](https://2022.euro-par.org/)**.
+Title: _Characterization of Different User Behaviors for Demand Response in Data Centers._ Glasgow (UK).
+[full paper](https://hal.archives-ouvertes.fr/hal-03768237/document),
+[slides](/src/data/22-08-24_Madon_europar22.pdf)
+<!--  -->
 * 8 Apr 22. **Seminar @[DataMove research team](https://team.inria.fr/datamove/talks/)** (INRIA, LIG, Grenoble).
 Title: _Characterization of user behaviors for demand response in data centers_. Online.
 [slides](https://team.inria.fr/datamove/files/2022/04/220407-slides-mael-madon.pdf)
@@ -54,16 +72,22 @@ Title: _Characterization of user behaviors for demand response in data centers_.
 Title: _From the embodied emissions of radio base stations to involving the user in environmental-aware clouds_. Online.
 [slides](/src/data/21-06-17_slides_SIF.pdf),
 [video (start 1:15:22)](https://vimeo.com/588859468)
+<!--  -->
+* 22 Jun 20. **Paper presentation @[GreenCom'20](http://ieee-cybermatics.org/2020/greencom/)**.
+Title: _Integrating Pre-Cooling of Data Center Operated with Renewable Energies._ Online.
+[full paper](https://hal.science/hal-02970488v1/document),
+[slides](/src/data/20-10-xx_GreenCom_wo_video.pptx)
 
 ## Events
 
-*   4-8 July 22. **Assises de la Recherche en Ingénierie : Sciences en conscience, enjeux écologiques et de société**. [website](http://asri2022-toulouse.fr)[,](http://asri2022-toulouse.fr/fr/le-programme/les-thematiques-abordees.html) [program](http://asri2022-toulouse.fr/fr/le-programme/les-thematiques-abordees.html). At this event, I co-organized two workshops:
+*   13-14 Nov 25. **[ecoCompute 2025](https://www.eco-compute.io/schedule/2025/)**. Berlin (Germany).
+*   4-8 July 22. **[Assises de la Recherche en Ingénierie : Sciences en conscience, enjeux écologiques et de société](https://www.occitanie-ouest.cnrs.fr/fr/cnrsinfo/les-assises-de-la-recherche-en-ingenierie-prennent-place-toulouse-cet-ete)**. Toulouse (France). At this event, I co-organized two workshops:
     *   Workshop 2.5 : _Three visions for a sustainable ICT (green for IT, IT for green, no IT)._ Panel discussion with Georges DA COSTA, Jean-Pierre GEORGE and Célia IZOARD.
     *   Workshop 4.5 : _Towards digital sufficiency: reflection on our “basic digital needs”_
-*   21-22 Jun 22. **Eighth Workshop on Computing within Limits**. Online. [website](https://computingwithinlimits.org/2022/)
-*   30 Aug – 3 Sep 21. **SICT2021 – A doctoral school on sustainable ICT**. Louvain-La-Neuve (Belgium). [website](https://www.sictdoctoralschool.com/), [program](https://www.sictdoctoralschool.com/media/program-website.pdf)
-*   16-20 Aug 21. **International Summer School on ICT for Sustainability 2021.** Online. [website](https://www.lorentzcenter.nl/international-summer-school-on-ict-for-sustainability-2021.html), [program](https://www.lorentzcenter.nl/index.php?pntType=ConPagina&id=1518&conPaginaProgrammaDagId=22&pntHandler=DownloadAction&PHPSESSID=627022fbc24f1e28e3aa23156ede415a)
-*   26&27 May 21. **Expert Methodological Workshop on Digitalization, Energy, and Climate Change.** Online. Organised by Eric Masanet (UC Santa Barbara), George Kamiya (IEA), Pernilla Bergmark (Ericsson) and Vlad Coroama (ETH Zurich).
+*   21-22 Jun 22. **[LIMITS 2022 – Eighth Workshop on Computing within Limits](https://computingwithinlimits.org/2022/)**. Online. 
+*   30 Aug - 3 Sep 21. **[SICT2021 – A doctoral school on sustainable ICT](https://archive.sictdoctoralschool.com/program-2021)**. Louvain-La-Neuve (Belgium).
+*   16-20 Aug 21. **[International Summer School on ICT for Sustainability 2021](https://www.lorentzcenter.nl/international-summer-school-on-ict-for-sustainability-2021.html).** Online.
+*   26-27 May 21. **Expert Methodological Workshop on Digitalization, Energy, and Climate Change.** Online. Organised by Eric Masanet (UC Santa Barbara), George Kamiya (IEA), Pernilla Bergmark (Ericsson) and Vlad Coroama (ETH Zurich).
 
 ## Groups
 

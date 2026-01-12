@@ -8,8 +8,15 @@ You’ll find below a list of presentations I have given at public events as wel
 
 ## Presentations
 
-### 2024
+### 2026
+* January 13: **presentation @[Permacomputing Meetup #5](https://gtblank.org/event/99)**
+Title: _Reflections on sufficiency for data centers_.
+Vienna (Austria).
+[slides](/src/data/26-01-13_permacomputing.pdf)
+<!--  -->
 
+
+### 2024
 * June 25: **paper presentation @[ICT4S'24](https://conf.researchr.org/home/ict4s-2024)** Title: _Digital sufficiency behaviors to deal with intermittent energy sources in a data center_.
 Stockholm (Sweden).
 [full paper](https://hal.science/hal-04745218v1/document),

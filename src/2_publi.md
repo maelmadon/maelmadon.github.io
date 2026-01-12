@@ -7,6 +7,11 @@ permalink: /publications/
 See also my [google scholar](https://scholar.google.fr/citations?user=wh91g8QAAAAJ), [ORCID](https://orcid.org/0000-0001-9476-4682), [HAL](https://hal.science/search/index/?q=*&authIdPerson_i=742836) or [zotero](https://www.zotero.org/mema5) profiles.
 
 ## Journal papers
+* S. Iserte, **M. Madon**, G. Da Costa, J.-M. Pierson and A. J. Peña, 2025.
+_MPI malleability validation under replayed real-world HPC conditions_.
+Future Generation Computer Systems. 
+[full paper](https://hal.science/hal-05428637v1/document).
+<!--  -->
 * **M. Madon**, G. Da Costa, and J.-M. Pierson, 2024.
 _Replay with Feedback: How does the performance of HPC system impact user submission behavior?_.
 Future Generation Computer Systems. 
